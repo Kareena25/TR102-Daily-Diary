@@ -1,10 +1,8 @@
 # TR102-Daily-Diary
 My 4-week Smartfusion Training Daily Diary
 ## 📝 Daily Diary – Day 1  
-*Name:* Kareena  
-*Branch:* CSE  
-*Date:* 26 June 2025  
-*Training Title:* SmartFusion (IoT Based Project)
+
+*Date:* 25 June 2025  
 
 ### 📌 Topics Covered:
 - Introduction to *IoT (Internet of Things)* and its real-life applications  
@@ -26,6 +24,8 @@ My 4-week Smartfusion Training Daily Diary
 ---
 
 ## 📅 Daily Diary – Day 2 
+
+*Date:* 26 June 2025   
 
 ## 📘 Topics Covered:
 - IoT architectural view and its 7 levels
