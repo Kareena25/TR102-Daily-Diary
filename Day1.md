@@ -1,6 +1,5 @@
 ## 📝 Daily Diary – Day 1  
-*Name:* Kareena  
-*Branch:* CSE  
+
 *Date:* 26 June 2025  
 *Training Title:* SmartFusion (IoT Based Project)
 
