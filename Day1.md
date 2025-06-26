@@ -10,9 +10,6 @@
 - Discussed *difference between IoT, ML, and AI* with examples  
 - Explained *types of Machine Learning* – supervised, unsupervised, reinforcement  
 - Introduction to *Arduino board* and its components like sensors, microcontroller, etc.  
-- Overview of *Raspberry Pi* and its basic functions  
-- Comparison between *Arduino and Raspberry Pi*  
-- Discussed some *IoT simulators* like Tinkercad and how they are useful  
 
 ### ✅ Task Given:
 - Study and understand the concept of *Smart Umbrella* (IoT-based project)  
