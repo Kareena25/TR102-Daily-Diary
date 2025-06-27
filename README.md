@@ -56,7 +56,7 @@ My 4-week Smartfusion Training Daily Diary
 - Gained basic knowledge of Arduino and Raspberry Pi  
 - Explored the role of simulators in testing before hardware implementation
 
-  ---
+---
 
 ## ✍️ Daily Diary – Day 3
 
