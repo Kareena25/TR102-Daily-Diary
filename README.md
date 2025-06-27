@@ -55,3 +55,30 @@ My 4-week Smartfusion Training Daily Diary
 - Learned where and how ML and AI are used in smart systems  
 - Gained basic knowledge of Arduino and Raspberry Pi  
 - Explored the role of simulators in testing before hardware implementation
+
+  ---
+
+## ✍️ Daily Diary – Day 3
+
+*Date:* 27 June 2025  
+
+### 📚 Topics Covered  
+- Introduction to Cloud Computing for IoT  
+- Concepts of Traditional, Distributed, Cluster, Grid, and Cloud Computing  
+- Client-Server Architecture and its role in IoT  
+- Virtualization and its types  
+- Cloud Deployment Models and Frameworks  
+- Importance and benefits of Cloud Computing in IoT  
+- Introduction to ThingSpeak platform  
+- Steps to set up a ThingSpeak channel  
+- Program to connect NodeMCU to Wi-Fi and read data from DHT11 sensor  
+
+### ✅ Task Given  
+- Explore platforms like Google App Engine, Microsoft Azure, and Amazon AWS  
+- Read about Amazon EC2  
+- Study IoT application platforms like ThingSpeak, Exhibly, Nimbit, and Cosm  
+
+### 💡 Key Learnings  
+- Understood different types of computing in IoT context  
+- Explored ThingSpeak as an IoT cloud platform  
+- Understood benefits of using cloud for data storage and analysis
