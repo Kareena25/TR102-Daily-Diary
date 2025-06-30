@@ -88,10 +88,9 @@ My 4-week Smartfusion Training Daily Diary
 
 ---
 
-# 📝 Daily Diary – Day 4  
-**📅 Date:** 30 June 2025  
+## 📝 Daily Diary – Day 4  
 
----
+**📅 Date:** 30 June 2025  
 
 ## 📚 Topics Covered  
 - Introduction to Data Acquisition in IoT  
