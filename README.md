@@ -76,9 +76,44 @@ My 4-week Smartfusion Training Daily Diary
 ### ✅ Task Given  
 - Explore platforms like Google App Engine, Microsoft Azure, and Amazon AWS  
 - Read about Amazon EC2  
-- Study IoT application platforms like ThingSpeak, Exhibly, Nimbit, and Cosm  
+- Study IoT application platforms like ThingSpeak, Exhibly, Nimbit, and Cosm
+- Completed the assignment based on IoT concepts explained during the session
+- Started working on the IoT mini project as instructed by the faculty
+ 
 
 ### 💡 Key Learnings  
 - Understood different types of computing in IoT context  
 - Explored ThingSpeak as an IoT cloud platform  
 - Understood benefits of using cloud for data storage and analysis
+
+---
+
+# 📝 Daily Diary – Day 4  
+**📅 Date:** 30 June 2025  
+
+---
+
+## 📚 Topics Covered  
+- Introduction to Data Acquisition in IoT  
+- Sensor interfacing using ESP32 and DHT22  
+- Reading temperature and humidity data using Arduino code  
+- Connecting ESP32 to Wi-Fi (Wokwi simulation)  
+- Sending sensor data to ThingSpeak using HTTP GET request  
+- Viewing real-time data graphs on ThingSpeak  
+
+---
+
+## ✅ Task Given  
+- Simulate ESP32 and DHT22 using Wokwi  
+- Write code to acquire sensor data and send to ThingSpeak  
+- Use API key and validate ThingSpeak channel data
+- Observe the HTTP response and verify successful data upload
+
+---
+
+## 💡 Key Learnings  
+- Understood the working of Data Acquisition in IoT systems  
+- Gained hands-on experience with ESP32 and DHT22 sensor  
+- Learned how to send data from hardware to cloud using HTTP request  
+- Explored ThingSpeak as a real-time data visualization platform  
+- Learned the practical use of API keys and response codes (like 200)  
