@@ -1,6 +1,6 @@
 # TR102-Daily-Diary
 My 4-week Smartfusion Training Daily Diary
-## 📝 Daily Diary – Day 1  
+# 📝 Daily Diary – Day 1  
 
 *Date:* 25 June 2025  
 
@@ -23,7 +23,7 @@ My 4-week Smartfusion Training Daily Diary
   
 ---
 
-## 📅 Daily Diary – Day 2 
+# 📅 Daily Diary – Day 2 
 
 *Date:* 26 June 2025   
 
@@ -58,7 +58,7 @@ My 4-week Smartfusion Training Daily Diary
 
 ---
 
-## ✍️ Daily Diary – Day 3
+# ✍️ Daily Diary – Day 3
 
 *Date:* 27 June 2025  
 
@@ -88,7 +88,7 @@ My 4-week Smartfusion Training Daily Diary
 
 ---
 
-## 📝 Daily Diary – Day 4  
+# 📝 Daily Diary – Day 4  
 
 **📅 Date:** 30 June 2025  
 
@@ -100,15 +100,11 @@ My 4-week Smartfusion Training Daily Diary
 - Sending sensor data to ThingSpeak using HTTP GET request  
 - Viewing real-time data graphs on ThingSpeak  
 
----
-
 ## ✅ Task Given  
 - Simulate ESP32 and DHT22 using Wokwi  
 - Write code to acquire sensor data and send to ThingSpeak  
 - Use API key and validate ThingSpeak channel data
 - Observe the HTTP response and verify successful data upload
-
----
 
 ## 💡 Key Learnings  
 - Understood the working of Data Acquisition in IoT systems  
@@ -116,3 +112,24 @@ My 4-week Smartfusion Training Daily Diary
 - Learned how to send data from hardware to cloud using HTTP request  
 - Explored ThingSpeak as a real-time data visualization platform  
 - Learned the practical use of API keys and response codes (like 200)  
+
+---
+
+# 📝 Daily Diary – Day 5  
+**📅 Date:** 1 july 2025  
+
+## 📚 Topics Covered  
+- Overview of photoresistor (LDR) and light detection  
+- Basics of interfacing servo motor with Arduino  
+- Understanding analog input using LDR  
+- Introduction to PWM (Pulse Width Modulation) for servo control  
+
+## ✅ Task Given  
+- Task 1: Detect light using a photoresistor (LDR)  
+- Task 2: Interface a servo motor with Arduino and control its angle  
+
+## 💡 Key Learnings  
+- Learned how a photoresistor changes resistance based on light intensity  
+- Understood how Arduino reads analog signals from LDR  
+- Explored how servo motors work using PWM signals from Arduino  
+- Got familiar with basic interfacing techniques of sensors and actuators  
