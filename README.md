@@ -133,3 +133,48 @@ My 4-week Smartfusion Training Daily Diary
 - Understood how Arduino reads analog signals from LDR  
 - Explored how servo motors work using PWM signals from Arduino  
 - Got familiar with basic interfacing techniques of sensors and actuators  
+
+---
+
+# 📝 Daily Diary – Day 6  
+**📅 Date:** 2 July 2025  
+
+## 📚 Topics Covered  
+- Introduction to **Data Preprocessing** in Machine Learning  
+- Understanding **Train-Test Split** (80% training, 20% testing)  
+- Key preprocessing techniques:
+  - **Handling Missing Values** (NaN)
+  - **Scaling** using MinMaxScaler  
+  - **Normalization**   
+- Installation of important Python libraries:
+  - `pandas`
+  - `numpy`
+  - `scikit-learn`
+
+## ✅ Task Given  
+- Create a **CSV file** named `student_data.csv` including:
+  - Columns: `Name`, `ID`, `Math`, `Science`, `English`  
+  - 5–10 rows with some **missing values (NaN)** in the dataset  
+- Load the dataset into a **pandas DataFrame**  
+- Count missing values in each column using `df.isnull().sum()`  
+- Handle missing values using:
+  - **Mean**
+  - **Median**
+  - **Mode**  
+- Display the updated cleaned dataset  
+- Apply **MaxScaler** for feature scaling  
+- Perform **Scaling**,**MinMax Scaler**, **Normalization** on numerical columns
+
+## 💡 Key Learnings  
+- Learned how to create and import CSV datasets  
+- Understood how to detect and handle missing values in real-world data  
+- Applied imputation techniques like **mean, median, mode**  
+- Practiced data **scaling** to bring values in similar range  
+- Used **normalization** to transform data into 0–1 scale  
+- Explored and installed key ML libraries in Python (`pandas`, `numpy`, `sklearn`)
+
+## 🛠️ Tools & Libraries Used  
+- **Google Colab** / Jupyter Notebook  
+- **Python 3.x**  
+- Libraries: `pandas`, `numpy`, `scikit-learn`  
+- File type: `.csv` for storing and loading tabular data
