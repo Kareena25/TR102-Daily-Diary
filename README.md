@@ -178,3 +178,53 @@ My 4-week Smartfusion Training Daily Diary
 - **Python 3.x**  
 - Libraries: `pandas`, `numpy`, `scikit-learn`  
 - File type: `.csv` for storing and loading tabular data
+
+---
+
+# 📝 Daily Diary – Day 7  
+**📅 Date:** 3 July 2025  
+
+## 📚 Topics Covered  
+
+- **Introduction to Data Visualization**  
+- Basics of `matplotlib.pyplot` and `seaborn` libraries  
+- Common types of plots and graphs:
+  - **Line Graph** using `plot()` function  
+  - **Bar Graph**  
+  - **Scatter Plot**  
+  - **Histogram**  
+  - **Pie Chart**  
+
+- **Introduction to Seaborn Library**
+  - Built on top of Matplotlib
+  - Easier syntax and better visuals for statistical data
+
+- **Advanced Seaborn Plots**
+  - **Boxplot**, **Heatmap**
+  - Using the built-in **`tips`** dataset
+  - Functions: `sns.boxplot()`, `sns.heatmap()`, etc.
+
+- **Real-Time Plotting**
+  - Use of **`plt.ion()`** for interactive data visualization  
+  - Enables live updates in graphs
+
+## ✅ Task Given  
+
+- **Read and understand** the concept of **real-time data plotting** using `plt.ion()`  
+- Study the **`tips`** dataset used for plotting with Seaborn  
+- Read about **Exploratory Data Analysis (EDA)** and its purpose
+
+## 💡 Key Learnings  
+
+- Gained theoretical understanding of various plot types  
+- Understood how Seaborn simplifies visualization over Matplotlib  
+- Learned about real-time plotting with `plt.ion()`  
+- Explored the role of EDA in analyzing and understanding datasets
+
+## 🛠️ Tools & Libraries Used  
+
+- Python 3.x  
+- **Matplotlib** → `import matplotlib.pyplot as plt`  
+- **Seaborn** → `import seaborn as sns`  
+- Dataset: **`tips`**  
+- **Platform Used**: Kaggle Kernel  
