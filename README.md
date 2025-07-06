@@ -228,3 +228,53 @@ My 4-week Smartfusion Training Daily Diary
 - **Seaborn** → `import seaborn as sns`  
 - Dataset: **`tips`**  
 - **Platform Used**: Kaggle Kernel  
+
+---
+
+# 📝 Daily Diary – Day 8  
+**📅 Date:** 4 July 2025  
+
+## 📚 Topics Covered  
+
+- Recap and student explanations of **Exploratory Data Analysis (EDA)**  
+- Discussion on the importance of EDA in Machine Learning  
+- Key steps in EDA:  
+  - Understanding data types  
+  - Summary statistics  
+  - Handling missing values  
+  - Correlation and visualization  
+- Real-time interaction and explanation by students (one-by-one)  
+
+## 💻 Mini Project Discussion  
+
+### 📌 Project Title:  
+**Real-Time IoT Dashboard with Graphs**  
+
+### 📊 What It Does:  
+- Reads sensor data (e.g., temperature, light, humidity)  
+- Sends data to cloud platform (like ThingSpeak)  
+- Displays data in real-time on a custom dashboard using HTML/JavaScript  
+
+### 📋 What Was Discussed:  
+- Project goal and outcome  
+- Tools used: ESP32, Wokwi, ThingSpeak, HTML/JS  
+- Architecture overview of IoT system  
+- **Flowchart** of data flow from sensor → ESP32 → Wi-Fi → ThingSpeak → Web Dashboard  
+
+## ✅ Task Given  
+
+- Prepare a brief overview of **EDA** and its steps  
+- Study the **Real-Time IoT Dashboard with Graphs** project  
+- Understand its implementation flow:  
+  - Data collection  
+  - Cloud communication  
+  - Dashboard plotting  
+- Sketch or refer to the **flowchart** showing system components and data path  
+
+## 💡 Key Learnings  
+
+- Understood how to **analyze datasets** using EDA for better insights  
+- Learned the purpose and importance of EDA before applying ML models  
+- Explored how IoT systems can visualize sensor data in real time  
+- Learned about the **architecture of a cloud-connected IoT mini project**  
+- Gained clarity on how dashboards are built using data and graphs  
