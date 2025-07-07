@@ -278,3 +278,74 @@ My 4-week Smartfusion Training Daily Diary
 - Explored how IoT systems can visualize sensor data in real time  
 - Learned about the **architecture of a cloud-connected IoT mini project**  
 - Gained clarity on how dashboards are built using data and graphs  
+
+---
+
+# 📝 Daily Diary – Day 9  
+**📅 Date:** 7 July 2025  
+
+## 📚 Topics Covered  
+
+### 🔹 Introduction to Machine Learning  
+- Definition and importance of Machine Learning  
+- Comparison: Traditional Programming vs. Machine Learning  
+- Difference between AI, ML, and Deep Learning  
+- Training Phase vs. Testing Phase  
+
+### 🔹 Types of Machine Learning  
+
+#### ✅ Supervised Learning  
+- Input and output labeled data  
+- Concepts:  
+  - **Classification**: Predicting categories (e.g., spam or not spam)  
+  - **Regression**: Predicting continuous values (e.g., house price)  
+
+#### ✅ Unsupervised Learning  
+- Input data without labels  
+- Concepts:  
+  - **Clustering**: Grouping similar data (e.g., customer segmentation)  
+  - **Association**: Discovering relationships (e.g., Market Basket Analysis)  
+
+#### ✅ Reinforcement Learning  
+- Learning from environment using rewards and penalties  
+- Applications: Gaming, Robotics, Navigation systems  
+
+### 🔹 Algorithms and Concepts  
+
+#### 📈 Regression Analysis  
+- **Linear Regression**  
+- **Logistic Regression**  
+- **Support Vector Machines (SVM)**  
+- **Decision Tree**  
+- **Random Forest**
+
+#### 🧠 Classification Algorithms  
+- Difference: Regression vs Classification  
+- Graph-based explanation using examples  
+
+#### 📊 Unsupervised Algorithms  
+- K-Means Clustering  
+- K-NN (K-Nearest Neighbors)  
+- Hierarchical Clustering  
+- Anomaly Detection  
+- Principal Component Analysis (PCA)  
+- Apriori Algorithm  
+
+#### 🧠 Neural Networks  
+- Basic intro and connection to deep learning  
+
+## ✅ Task Given  
+
+- Write the **difference between Supervised, Unsupervised, and Reinforcement Learning**  
+- Understand Linear Regression Algorithm  
+  - Apply Linear Regression with an example  
+  - Calculate **Mean Squared Error (MSE)**  
+  - Understand **residuals** in regression  
+
+## 💡 Key Learnings  
+
+- Understood how ML differs from traditional programming  
+- Learned about 3 types of ML: Supervised, Unsupervised, Reinforcement  
+- Gained clarity on various ML algorithms and their applications  
+- Practically explored Linear Regression with error analysis    
+- Explored multiple unsupervised learning techniques like clustering
