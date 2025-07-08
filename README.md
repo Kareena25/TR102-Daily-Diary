@@ -349,3 +349,68 @@ My 4-week Smartfusion Training Daily Diary
 - Gained clarity on various ML algorithms and their applications  
 - Practically explored Linear Regression with error analysis    
 - Explored multiple unsupervised learning techniques like clustering
+
+---
+
+# 📘 Daily Diary – Day 10
+**📅 Date:** 8 July 2025  
+
+## 📚 Topic: K-Means Clustering Algorithm & Smart City Case Study (Ludhiana)  
+
+## 🔍 Topics Covered
+
+### 🔹 K-Means Clustering Algorithm
+- **Type:** Unsupervised Machine Learning Algorithm
+- **Purpose:** To group similar data points into *K clusters* without using labeled data.
+- **Applications:** 
+  - Customer Segmentation  
+  - Image Compression  
+  - Market Basket Analysis  
+  - Urban Zone Classification  
+
+## ⚙️ Working Steps of K-Means Algorithm
+
+1. Select the number of clusters, `K`.
+2. Randomly initialize `K` centroids.
+3. Assign each data point to the **nearest centroid** using Euclidean distance.
+4. Recalculate the centroids by averaging the points assigned to each cluster.
+5. Repeat steps 3 and 4 until the centroids do not change significantly (i.e., convergence is reached).
+
+## 🧠 Additional Concepts Discussed
+
+### 🔸 Online Learning
+- Model learns **continuously** as new data comes in.
+- Ideal for real-time systems (e.g., recommendation engines, fraud detection).
+
+### 🔸 Semi-Supervised Learning
+- Uses a small amount of **labeled data** with a large amount of **unlabeled data**.
+- Reduces labeling effort and cost.
+- Useful when labeled data is expensive or limited.
+
+## 🧪 Hands-On Activity
+
+**🧾 Task Given:**  
+Use the K-Means Clustering algorithm to classify unlabeled data points into different clusters.  
+
+**🎯 Objective:**  
+- Practice how K-Means automatically separates data into groups based on similarity.
+- Visualize how centroids are updated after each iteration.
+
+## 🏙️ Case Study: Smart City Project – Ludhiana
+
+### 📝 Task:
+Study the **current status of Ludhiana** under the Smart City initiative and apply ML techniques like K-Means Clustering to identify zones for improvement.
+
+### 📌 Observations from Current Scenario:
+- 🚦 Traffic congestion during peak hours.
+- 🗑️ Waste collection systems are semi-automated but not consistent across zones.
+- 🌫️ High air pollution in industrial regions.
+- 🚍 Public transport digitization is ongoing but not fully adopted.
+
+## ✅ Learning Outcome
+
+- Understood the theory and working steps of the **K-Means Clustering Algorithm**.
+- Learned about **Online Learning** and **Semi-Supervised Learning** in ML.
+- Explored a **real-world problem (Smart City – Ludhiana)** and thought about how ML can help solve urban issues.
+- Strengthened understanding of **unsupervised learning techniques** through hands-on practice and real-world case study.
+
