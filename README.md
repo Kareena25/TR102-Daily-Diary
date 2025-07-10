@@ -414,3 +414,39 @@ Study the **current status of Ludhiana** under the Smart City initiative and app
 - Explored a **real-world problem (Smart City – Ludhiana)** and thought about how ML can help solve urban issues.
 - Strengthened understanding of **unsupervised learning techniques** through hands-on practice and real-world case study.
 
+---
+
+## 📅 Daily Diary - Day 11
+**Date :** 9 july 2025
+
+### ✅ Topics Covered
+- K-Nearest Neighbors (KNN) Algorithm  
+- How to choose the right algorithm for ML projects  
+- Concept of Confusion Matrix  
+- Accuracy & Precision Formula  
+- Project Title Finalization & Objective Writing  
+
+### 📘 Key Learnings
+- KNN is used for classification based on nearest data points  
+- Steps: Choose K, calculate distances, pick K nearest, assign most common class  
+- KNN is simple and works well for small datasets  
+- Confusion Matrix is useful to evaluate classification performance  
+- Accuracy = (TP + TN) / (TP + TN + FP + FN)  
+- Precision = TP / (TP + FP)  
+- Choice of algorithm depends on data type, dataset size, and project needs  
+
+### 🔧 Tools / Platforms Used
+- Python (scikit-learn)  
+- Colab / Jupyter Notebook  
+
+### 🧪 Tasks Performed
+- Learned KNN working with real datasets  
+- Compared ML algorithms for our ML + IoT project  
+- Discussed confusion matrix in detail  
+- Finalized project title and noted down objectives  
+- Assigned to read a review paper and methodology for the project  
+
+### 🎯 Project Work
+- Finalized project title  
+- Wrote basic objectives  
+- Discussed suitable ML models for project  
