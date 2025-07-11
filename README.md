@@ -450,3 +450,36 @@ Study the **current status of Ludhiana** under the Smart City initiative and app
 - Finalized project title  
 - Wrote basic objectives  
 - Discussed suitable ML models for project  
+
+---
+
+## 📅 Daily Diary - Day 11
+**Date :** 10 july 2025
+
+### ✅ Topics Covered
+- Overfitting and Underfitting in ML  
+- Project Preparation Tasks (Review Paper, Dataset Search, Role Distribution)  
+
+### 📘 Key Learnings
+- Overfitting happens when the model performs well on training data but poorly on unseen data  
+- Underfitting occurs when the model fails to capture the underlying trend in data  
+- Cross Validation is a technique used to evaluate and improve model performance  
+- It helps reduce both overfitting and underfitting by training and testing the model on different data splits  
+
+### 🔧 Tools / Platforms Used
+- Online Research Platforms  
+- Search Engines  
+
+### 🧪 Tasks Performed
+- Searched and read about Cross Validation  
+- Understood how Cross Validation helps handle overfitting and underfitting  
+- Task: How to remove overfitting and underfitting using cross validation  
+- Searched for the latest review paper related to the project  
+- Explored datasets relevant to the project  
+- Divided roles among team members  
+
+### 🎯 Project Work
+- Shortlisted review paper  
+- Looked into suitable datasets  
+- Assigned specific roles to each member  
+
