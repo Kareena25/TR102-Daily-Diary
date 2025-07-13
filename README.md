@@ -453,7 +453,7 @@ Study the **current status of Ludhiana** under the Smart City initiative and app
 
 ---
 
-## 📅 Daily Diary - Day 11
+## 📅 Daily Diary - Day 12
 **Date :** 10 july 2025
 
 ### ✅ Topics Covered
@@ -483,3 +483,29 @@ Study the **current status of Ludhiana** under the Smart City initiative and app
 - Looked into suitable datasets  
 - Assigned specific roles to each member  
 
+---
+
+## 📅 Daily Diary - Day 13
+**Date:** 11 july 2025
+
+### ✅ Topics Covered
+- Project Progress Review and Team Coordination  
+
+### 📘 Key Learnings
+- Regular project updates help track progress and manage deadlines  
+- Team coordination is important to ensure timely completion of tasks  
+- Clear role distribution improves efficiency in project development  
+
+### 🔧 Tools / Platforms Used
+- Blynk (for project interface planning)  
+
+### 🧪 Tasks Performed
+- Discussed progress made in the project so far  
+- Shared updates on tasks like review paper, dataset search, and model selection  
+- Explored Blynk app for project implementation  
+- Ensured all team members are clear with their assigned roles  
+
+### 🎯 Project Work
+- Reviewed progress of each task  
+- Identified pending tasks and assigned responsibilities  
+- Continued working on project research and planning  
