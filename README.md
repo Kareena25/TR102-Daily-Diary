@@ -508,4 +508,129 @@ Study the **current status of Ludhiana** under the Smart City initiative and app
 ### 🎯 Project Work
 - Reviewed progress of each task  
 - Identified pending tasks and assigned responsibilities  
-- Continued working on project research and planning  
+- Continued working on project research and planning
+
+---
+
+## 📅 Daily Diary - Day 12
+**Date:** 14 July 2025
+
+### ✅ Topics Covered
+- Introduction to project development phase  
+- Team discussion on project scope and requirements  
+
+### 📘 Key Learnings
+- Importance of project planning before starting coding  
+- Team coordination improves efficiency  
+- Role distribution helps in tracking work  
+
+### 🔧 Tools / Platforms Used
+- Initial planning through discussion and brainstorming  
+
+### 🧪 Tasks Performed
+- Discussed objectives of the project  
+- Identified required modules and components  
+- Assigned roles to team members  
+
+### 🎯 Project Work
+- Finalized scope of the project  
+- Planned next steps for coding and implementation  
+
+
+## 📅 Daily Diary - Day 13
+**Date:** 15 July 2025
+
+### ✅ Topics Covered
+- Project Progress Review and Team Coordination  
+
+### 📘 Key Learnings
+- Regular updates help track progress  
+- Team coordination is important for deadlines  
+- Role distribution ensures efficiency  
+
+### 🔧 Tools / Platforms Used
+- Blynk (for interface planning)  
+
+### 🧪 Tasks Performed
+- Shared updates on work completed  
+- Discussed dataset search and model selection  
+- Explored Blynk app for project interface  
+- Ensured role clarity among team members  
+
+### 🎯 Project Work
+- Reviewed progress  
+- Identified pending tasks  
+- Continued research and planning  
+
+
+## 📅 Daily Diary - Day 14
+**Date:** 16 July 2025
+
+### ✅ Topics Covered
+- Dedicated time for project building  
+
+### 📘 Key Learnings
+- Practical implementation requires time and patience  
+- Testing each module separately helps in integration later  
+
+### 🔧 Tools / Platforms Used
+- Project hardware (ESP32, sensors, etc.)  
+- Software planning tools  
+
+### 🧪 Tasks Performed
+- Worked on assembling components of project  
+- Divided tasks for coding and documentation  
+- Discussed strategy for upcoming verification  
+
+### 🎯 Project Work
+- Initial project assembly started  
+- Planned coding phase for next sessions  
+
+
+## 📅 Daily Diary - Day 15
+**Date:** 17 July 2025
+
+### ✅ Topics Covered
+- Project development continuation  
+
+### 📘 Key Learnings
+- Debugging is essential during project build  
+- Importance of teamwork in troubleshooting  
+
+### 🔧 Tools / Platforms Used
+- Hardware kits (sensors, ESP32, breadboard)  
+- Software tools for testing connections  
+
+### 🧪 Tasks Performed
+- Connected modules on breadboard  
+- Checked wiring and connections  
+- Planned next steps for coding implementation  
+
+### 🎯 Project Work
+- Hardware setup tested  
+- Coding part planned for integration  
+
+
+## 📅 Daily Diary - Day 16
+**Date:** 18 July 2025
+
+### ✅ Topics Covered
+- Project verification preparation  
+
+### 📘 Key Learnings
+- Proper documentation is important for project submission  
+- Continuous testing reduces errors later  
+
+### 🔧 Tools / Platforms Used
+- Project hardware (sensors, ESP32)  
+- Software platform for testing  
+
+### 🧪 Tasks Performed
+- Continued project building  
+- Prepared notes for documentation  
+- Divided work for coding and testing  
+
+### 🎯 Project Work
+- Hardware progress continued  
+- Documentation work started  
+
