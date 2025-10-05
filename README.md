@@ -636,10 +636,11 @@ Study the **current status of Ludhiana** under the Smart City initiative and app
 
 ---
 
-## Training Certificate
+## 🎓 Training Certificate
 
 I have successfully completed my 4-week training program.  
-Click below to view my certificate:
 
-[📄 View / Download Training Certificate](https://github.com/Kareena25/TR102-Daily-Diary/edit/main/README.md)
+You can view my certificate by clicking the link below:
+
+[📄 Click here to open my Training Certificate](./Training_Certificate(1).pdf)
 
