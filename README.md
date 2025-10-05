@@ -642,5 +642,5 @@ I have successfully completed my 4-week training program.
 
 You can view my certificate by clicking the link below:
 
-[📄 Click here to open my Training Certificate](./Training_Certificate(1).pdf)
+[📄 Click here to open my Training Certificate](./)
 
